@@ -14,7 +14,7 @@
 
 ---
 
-### 🌀 Анимация кода (реальный терминал)
+
 
 ![Анимация](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=435&lines=git+clone+https://github.com/Rustam150;npm+install;npm+run+dev;🚀+Сервер+запущен+на+5000)
 
