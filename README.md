@@ -20,5 +20,5 @@
 ---
 
 
-![Активность](https://github-readme-activity-graph.vercel.app/graph?username=Rustam150&theme=react-dark&hide_border=true&area=true&custom_title=График+активности+за+год)
+![Активность](https://github-readme-activity-graph.vercel.app/graph?username=Rustam150&theme=react-dark&hide_border=true&area=true)
 
