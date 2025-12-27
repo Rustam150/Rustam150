@@ -20,8 +20,8 @@ Fullstack-разработчик
 ![REST API](https://img.shields.io/badge/REST_API-000?logo=fastapi&logoColor=white&labelColor=gray)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 
-
+![Анимация](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=435&lines=Разрабатываю+проекты;Пишу+чистый+код;Оптимизирую+производительность;Создаю+масштабируемые+системы)
 
 ![Активность](https://github-readme-activity-graph.vercel.app/graph?username=Rustam150&theme=react-dark&hide_border=true&area=true&custom_title=График+активности+за+год)
 
-![Анимация](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=435&lines=Разрабатываю+проекты;Пишу+чистый+код;Оптимизирую+производительность;Создаю+масштабируемые+системы)
+
