@@ -1,4 +1,4 @@
-Fullstack-разработчик
+Я Fullstack-разработчик
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -8,15 +8,18 @@ Fullstack-разработчик
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=Rustam150&show_icons=true&theme=radical)
+---
 
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam150&layout=compact&theme=radical)
+### 🌀 Анимация кода (реальный терминал)
 
-![Активность](https://github-readme-activity-graph.vercel.app/graph?username=Rustam150&theme=react-dark&hide_border=true&area=true&custom_title=График%20активности%20за%20год)
+![Анимация](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=435&lines=git+clone+https://github.com/Rustam150;npm+install;npm+run+dev;🚀+Сервер+запущен+на+5000)
+
+---
+
+
+
+![Активность](https://repobeats.axiom.co/api/embed/3d1c1a9c4e7c4e9e8b0a3d0e3c0a3d0e3c0a3d0e.svg?no-bg=true)
