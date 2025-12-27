@@ -20,4 +20,4 @@
 ---
 
 
-![Активность](https://repobeats.axiom.co/api/embed/3d1c1a9c4e7c4e9e8b0a3d0e3c0a3d0e3c0a3d0e.svg?no-bg=true)
+![Активность] (https://repobeats.axiom.co/api/embed/3d1c1a9c4e7c4e9e8b0a3d0e3c0a3d0e3c0a3d0e.svg?no-bg=true)
