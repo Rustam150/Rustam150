@@ -20,5 +20,5 @@
 ---
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Rustam150&theme=react-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&curr_streak_label=Current+Streak&fire=🔥)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Rustam150&theme=react-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&curr_streak_label=Current+Streak&fire=)
 
