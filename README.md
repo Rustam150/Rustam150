@@ -15,9 +15,9 @@
 ---
 
 
-![Анимация](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=435&lines=Разрабатываю+проекты;Пишу+чистый+код;Оптимизирую+производительность;Создаю+масштабируемые+системы)
+![График](https://ghchart.rshah.org/Rustam150)
 
 ---
 
 
-![Активность](https://github-readme-activity-graph.vercel.app/graph?username=Rustam150&theme=react-dark&hide_border=true&area=true&custom_title=График%20активности%20за%20год)
+![Анимация](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=500&color=00FFA3&center=true&vCenter=true&width=435&lines=Разрабатываю+проекты;Пишу+чистый+код;Загружаю+работы+в+GitHub;Делаю+коммиты+и+пуши)
